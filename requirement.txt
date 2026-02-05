@@ -2,5 +2,5 @@
 # below are the requirement that must be exactly same to prevent error
 tensorflow==2.2.0
 keras==2.3.1
-protobuf==3.20
+protobuf==6.33.5
 
